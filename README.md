@@ -15,6 +15,8 @@
 Upload your reservoir data → Get rule curves in under 2 minutes.
 No installation. No account. Works on any device.
 
+> *Using this for an official study? [Professional services available →](#-professional-services)*
+
 ---
 
 ## What Problem Does This Solve?
@@ -223,16 +225,23 @@ Sample data included in the app (pre-loaded by default):
 
 ---
 
-## Consulting & Support
+## 💼 Professional Services
 
-Need rule curves designed for your reservoir?
+The web app is **free for exploration, learning, and internal assessment**.
 
-**Services available:**
-- Rule Curve Design Package — ES curve + inflows → 7-sheet Excel + PDF report (₹15,000–25,000)
-- Training Workshop — 2-day hands-on workshop for WRD teams (₹1–2 L per batch)
-- Institutional License — Annual license for academic use (₹25,000–50,000/year)
+For official dam safety submissions, auditable deliverables, and reservoir-specific studies
+by a licensed dam safety engineer (MTech, IISc Bengaluru · SDSO, Govt. of Tamil Nadu):
 
-📧 Contact: **mtechiisc2325@gmail.com**
+| Service | Deliverables | Investment |
+|---|---|---|
+| **Single Reservoir Rule Curve Study** | Your ES curve + inflows → 7-sheet Excel workbook + 8-section PDF report, CWC-compliant, submission-ready | ₹25,000 – ₹50,000 |
+| **WRD Team Training Workshop** | 2-day hands-on: CWC methodology, tool walkthrough, live reservoir exercise (up to 20 engineers) | ₹1 L – ₹2 L per batch |
+| **Custom / Multi-Reservoir Study** | Linked reservoir rule curves, operational optimization, PAP-style cascade analysis | Write to discuss |
+
+📧 **mtechiisc2325@gmail.com**
+
+> Typical turnaround: **5–7 working days** for single reservoir studies.
+> All outputs carry an engineer's review note and are traceable to CWC guidelines.
 
 ---
 
