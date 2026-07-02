@@ -593,11 +593,7 @@ with tab_sim:
             continue
         with st.expander(f"📋 Period-wise Details — {sim_label[cn]}"):
             st.dataframe(
-                simulations[cn].df.style.background_gradient(
-                    subset=['Spill_MCM'], cmap='Reds'
-                ).background_gradient(
-                    subset=['Satisfaction_%'], cmap='Greens'
-                ),
+                simulations[cn].df,
                 use_container_width=True, height=400,
             )
 
@@ -608,9 +604,7 @@ with tab_sim:
 with tab_rel:
     st.markdown("### Reliability Summary – All 10 Cases")
     st.dataframe(
-        rel_df.style.background_gradient(subset=['Flood Space(MCM)'], cmap='Blues')
-                    .background_gradient(subset=['Sat P50 (%)'],      cmap='Greens')
-                    .background_gradient(subset=['Sat P10 (%)'],      cmap='Oranges'),
+        rel_df,
         use_container_width=True, height=420,
     )
 
@@ -646,8 +640,7 @@ with tab_rel:
 with tab_tf:
     st.markdown("### Flood Risk vs Drought Risk Tradeoff")
     st.dataframe(
-        tradeoff_df.style.background_gradient(subset=['Flood Space (MCM)'], cmap='Blues')
-                         .background_gradient(subset=['Flood Risk Score'],   cmap='Reds'),
+        tradeoff_df,
         use_container_width=True, height=380,
     )
     st.info(
